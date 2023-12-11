@@ -1,0 +1,14 @@
+{
+    "questions": [
+        {
+            "question": "Qual o meu nome?",
+            "choices": ["Alan", "Miguel", "Eduardo", "Luiz"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Qual o meu sobrenome?",
+            "choices": ["Silva", "Oliveira", "Cardoso", "Santos"],
+            "correctAnswerIndex": 1
+        }
+    ]
+}
