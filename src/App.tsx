@@ -45,7 +45,7 @@ function App() {
 
     return (
         <div className={App_module.app}>
-            <h1 className={App_module.titulo}>Jogo de Perguntas</h1>
+            <h1 className={App_module.titulo}>Conhecimentos do Futebol</h1>
             <StatBar
                 currentQuestion={currentQuestionIndex + 1}
                 totalQuestions={allQuestions.questions.length}
