@@ -1,14 +1,80 @@
 {
     "questions": [
         {
-            "question": "Qual o meu nome?",
-            "choices": ["Alan", "Miguel", "Eduardo", "Luiz"],
+            "question": "Em que ano ocorreu a primeira Copa do Mundo?",
+            "choices": ["1926", "1930", "1934", "1938"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Qual seleção ganhou mais Copas do Mundo?",
+            "choices": ["Alemanha", "Argentina", "Brasil", "Itália"],
             "correctAnswerIndex": 2
         },
         {
-            "question": "Qual o meu sobrenome?",
-            "choices": ["Silva", "Oliveira", "Cardoso", "Santos"],
+            "question": "Em que ano o Brasil conquistou sua primeira Copa do Mundo?",
+            "choices": ["1930", "1942", "1950", "1958"],
+            "correctAnswerIndex": 3
+        },
+        {
+            "question": "Quantas seleções já foram campeãs da Copas do Mundo?",
+            "choices": ["8", "9", "10", "11"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Quantas edições da Copa do Mundo já foram realizadas?",
+            "choices": ["21", "22", "23", "24"],
             "correctAnswerIndex": 1
+        },
+        {
+            "question": "Qual desses países nunca sediou uma Copa?",
+            "choices": ["Chile", "Portugal", "Suécia", "Suiça"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Qual edição teve o maior público total?",
+            "choices": ["Estados Unidos em 1994", "França em 1998", "Brasil em 2014", "Qatar em 2022"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Qual seleção tem 4 vices, sendo a que tem mais vices na história das Copas?",
+            "choices": ["Alemanha", "Argentina", "Brasil", "Itália"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Qual seleção aplicou a maior goleada da história da Copa do Mundo?",
+            "choices": ["Alemanha", "Brasil", "Hungria", "Iugoslávia"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Quais edições foram canceladas devido à Segunda Guerra Mundial?",
+            "choices": ["1934-1938", "1938-1942", "1942-1946", "1946-1950"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "question": "Com 16 gols, quem é o maior artilheiro das Copas do Mundo?",
+            "choices": ["Lionel Messi", "Miroslav Klose", "Ronaldo", "Pelé"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "A extensão para 32 equipes ocorreu na edição de qual ano?",
+            "choices": ["1986", "1990", "1994", "1998"],
+            "correctAnswerIndex": 3
+        },
+        {
+            "question": "Qual jogador fez mais gols em uma única edição?",
+            "choices": ["Just Fontaine", "Miroslav Klose", "Ronaldo", "Sándor Kocsis"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "question": "Qual jogador ganhou mais vezes a bola de ouro de melhor jogador da Copa do Mundo?",
+            "choices": ["Johan Cruyff", "Lionel Messi", "Pelé", "Ronaldo"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "question": "Qual dessas seleções nunca conquistou uma Copas do Mundo?",
+            "choices": ["Espanha", "Inglaterra", "Portugal", "Uruguai"],
+            "correctAnswerIndex": 2
         }
+        
     ]
 }
